@@ -1,0 +1,17 @@
+google-adk
+google-genai
+sentence-transformers
+faiss-cpu
+langchain
+langchain-core
+langchain-text-splitters
+numpy
+pypdf
+pypdfium2
+rapidocr
+onnxruntime
+pandas
+openpyxl
+xlrd
+python-docx
+python-dotenv
